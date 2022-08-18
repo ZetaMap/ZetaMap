@@ -1,4 +1,4 @@
-### Hi there 👋
+### Waazzzaaa!! 👋
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ZetaMap&count_private=true&show_icons=true&theme=synthwave)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZetaMap&hide=TeX&layout=compact&theme=synthwave)
