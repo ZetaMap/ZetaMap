@@ -1,7 +1,7 @@
 ### Waazzzaaa!! 👋
 
-![Github Stats](https://github-readme-stats-dusky-rho.vercel.app/api?username=ZetaMap&count_private=true&show_icons=true&theme=synthwave)
-![Top Langs](https://github-readme-stats-dusky-rho.vercel.app/api/top-langs/?username=ZetaMap&hide=TeX&layout=compact&theme=synthwave)
+![Github Stats](https://github-readme-stats-zetamap.vercel.app/api?username=ZetaMap&count_private=true&show_icons=true&theme=synthwave)
+![Top Langs](https://github-readme-stats-zetamap.vercel.app/api/top-langs/?username=ZetaMap&hide=TeX&layout=compact&theme=synthwave)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ZetaMap.ZetaMap)
 
