@@ -5,3 +5,4 @@
 ![Achievements](https://github-profile-trophy.vercel.app/?username=zetamap)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ZetaMap.ZetaMap)
+[![wakatime](https://wakatime.com/badge/user/13bf8799-3b70-4c9f-b97c-657adf1b10f4.svg)](https://wakatime.com/@13bf8799-3b70-4c9f-b97c-657adf1b10f4)
